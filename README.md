@@ -39,3 +39,6 @@ These insights can help businesses design targeted marketing strategies for diff
 - Scikit-learn
 - Matplotlib
 - Seaborn
+
+## Author
+Azeez Adekunle | University of Lagos
